@@ -50,4 +50,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito por Maycon ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-
